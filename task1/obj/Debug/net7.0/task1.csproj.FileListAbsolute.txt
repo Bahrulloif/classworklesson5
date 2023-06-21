@@ -1,0 +1,15 @@
+/home/admin/workspace/C#/lesson5/classwork/task1/bin/Debug/net7.0/task1
+/home/admin/workspace/C#/lesson5/classwork/task1/bin/Debug/net7.0/task1.deps.json
+/home/admin/workspace/C#/lesson5/classwork/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/home/admin/workspace/C#/lesson5/classwork/task1/bin/Debug/net7.0/task1.dll
+/home/admin/workspace/C#/lesson5/classwork/task1/bin/Debug/net7.0/task1.pdb
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.dll
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/refint/task1.dll
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.pdb
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/home/admin/workspace/C#/lesson5/classwork/task1/obj/Debug/net7.0/ref/task1.dll
